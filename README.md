@@ -7,5 +7,10 @@
 
 
 Find me on [![LinkedIn][1.2]][1], and on [![Instagram][2.2]][2].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
 [1]: https://www.linkedin.com/in/kian-carson-27baa61a4/
 [2]: https://www.instagram.com/cascade_kian/
