@@ -2,7 +2,7 @@
 
 ### Hi there, my name is Gerald 👋
 
-![Welcome to my GitHub!](https://user-images.githubusercontent.com/95309791/159108717-90371729-2f31-45fe-bed9-b8f0d87f5404.png)
+![Kian's Header](https://user-images.githubusercontent.com/95309791/159108929-9aa65457-7c1e-47c3-a5ff-a41b8a5cfa7a.png)
 
 <!--
 **kiancarson99/kiancarson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
