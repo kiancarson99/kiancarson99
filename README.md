@@ -4,7 +4,7 @@
 
 ![Kian's Header](https://user-images.githubusercontent.com/95309791/159108929-9aa65457-7c1e-47c3-a5ff-a41b8a5cfa7a.png)
 
-### Hi there, my name is Gerald 👋
+### Hi there, this is my friend named Gerald 👋
 
 <!--
 **kiancarson99/kiancarson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
