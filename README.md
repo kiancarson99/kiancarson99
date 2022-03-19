@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/youtube/views/NEdOCvexyck?label=Gerald&logoColor=yellow&style=social)
+![Gerald](https://static.wikia.nocookie.net/disney/images/6/6c/Gerald_Sea_Lion.png/revision/latest/top-crop/width/360/height/360?cb=20160601234240) 
