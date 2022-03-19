@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ##https://www.canva.com/design/DAE7ZVpSMTE/CqU1H4YkCeyRiOr2tTwy5w/edit?utm_content=DAE7ZVpSMTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 [![Header](https://www.canva.com/design/DAE7ZVpSMTE/CqU1H4YkCeyRiOr2tTwy5w/edit?utm_content=DAE7ZVpSMTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Header")](https://some-url.dev/)
 
