@@ -3,10 +3,14 @@
 
 ### Welcome to my GitHub page
 
-#### My name is Kian Carson, I am a graduate student in the Quantitative Methods of Social Sciences (QMSS) program at Columbia University. My studies focus upon microeconomics, econometrics, geospatial information systems, and quantitative methods, I am originally from Snoqualmie, Washington, but am currently living in New York, New York.
 
 
-Find me on [![LinkedIn][2.2]][2].
+
+
+#### My name is Kian Carson, I am a graduate student in the Quantitative Methods of Social Sciences (QMSS) program at Columbia University. My studies focus upon microeconomics, econometrics, geospatial information systems, and quantitative methods, I am originally from Snoqualmie, Washington, but am currently living in New York, New York. Find me on [![LinkedIn][2.2]][2].
+
+
+
 
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn logo)
